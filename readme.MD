@@ -17,7 +17,7 @@ Sau khi biên dịch xong, có thể chạy trực tiếp chương trình bằng
 
 ---
 
-## Bài 1 – Thực hành tiến trình và bộ nhớ chia sẻ
+## Bài 1
 Các tệp cần thực thi lần lượt là:
 - `test_fork.c`
 - `test_exec1.c`
@@ -33,13 +33,13 @@ Các tệp cần thực thi lần lượt là:
 
 ---
 
-## Bài 2 – Đo thời gian thực thi lệnh
+## Bài 2
 - Tệp cần thực thi: **`time.c`**  
 - Chương trình dùng để đo thời gian chạy của một lệnh shell bất kỳ thông qua cơ chế `fork()`, `execvp()` và `gettimeofday()`.
 
 ---
 
-## Bài 3 – Xử lý tín hiệu và tiến trình con
+## Bài 3
 - Tệp cần thực thi: **`stop.c`**  
 - Chương trình khởi chạy script `count.sh` và xử lý tín hiệu `SIGINT` (Ctrl + C) để dừng tiến trình con và in ra thông báo.
 
@@ -54,9 +54,10 @@ Các tệp cần thực thi lần lượt là:
 ---
 
 ## Video minh họa
-Thư mục **`/video`** chứa kết quả demo của bốn bài thực hành.
+Truy cập [link drive](https://drive.google.com/drive/folders/1is86lZ6ow5JFDiTZbbHeJs4QO0fZPqnH?usp=sharing) để xem demo do GitHub không cho push file quá nặng.
 
 ---
 
 ### 🩺 Ghi chú
 > Sinh viên xin phép **vắng buổi học ngày 27/10/2025** do lý do sức khỏe (Ốm).
+
